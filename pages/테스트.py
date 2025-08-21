@@ -1,1 +1,1 @@
-st.write("테스.")
+st.write("테스트.")
